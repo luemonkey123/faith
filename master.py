@@ -10,10 +10,10 @@ import subprocess                   ## Actually do git commands
 import re
 
 ## MUST have / at the end of dir
-postdirV = "/Users/shunquanshen/Documents/Obsidian/jekyll/posts/"
+postdirV = "/Users/shunquanshen/Documents/Obsidian/jekyll/faith-posts/"
 picsdirV = "/Users/shunquanshen/Documents/Obsidian/jekyll/"
-postdirJ = "/Users/shunquanshen/Projects/blogs/luemonkey123.github.io/_posts/"
-assetsJ = "/Users/shunquanshen/Projects/blogs/luemonkey123.github.io/assets/img/pimg/"
+postdirJ = "/Users/shunquanshen/Projects/blogs/faith/_posts/"
+assetsJ = "/Users/shunquanshen/Projects/blogs/faith/assets/img/pimg/"
 
 date = datetime.today().strftime('%Y-%m-%d') ## Get date in correct format
 
